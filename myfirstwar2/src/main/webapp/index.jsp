@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! We're building again.......</h1>
+        <h1>Hello World! I can now have complete CD to Tomcat.</h1>
     </body>
 </html>
